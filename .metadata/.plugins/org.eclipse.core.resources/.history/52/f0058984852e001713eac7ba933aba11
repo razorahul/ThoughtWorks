@@ -1,0 +1,5 @@
+package rahul.assingment1.validators;
+
+public interface IValidate {
+
+}

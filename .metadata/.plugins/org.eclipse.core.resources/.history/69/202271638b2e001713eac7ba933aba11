@@ -1,0 +1,46 @@
+package rahul.assingment1.validators;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class IValidate {
+	static List<Character> repeatativeLiterals = new ArrayList<Character>() {
+		{
+			add('I');add('X');add('C');add('M');
+		}
+	};
+	static List<Character> nonLiterals = new ArrayList<Character>() {
+		{
+			add('D');add('L');add('V');
+		}
+	};
+
+	public static boolean validate(String litral){
+		return false;
+	}
+	public static boolean validateRepetation(String literal) {
+		//for non repeating char
+		for(Character c : nonLiterals)
+		{
+			//(.*(a).*){2,}
+			String regex = "(.*("+c.toString()+").*){2,}";
+			if(literal.matches(regex))
+				return false;
+		}
+		//for repeating chars
+		for(Character c : repeatativeLiterals)
+		{
+			//(m){4,}
+			String regex = "("+c.toString()+"){4,}";
+			if(literal.matches(regex))
+				return false;
+		}
+		return false;
+	}
+	
+	
+	public static boolean vaidateOrdering(String literal){
+		
+		return false;
+	}
+}

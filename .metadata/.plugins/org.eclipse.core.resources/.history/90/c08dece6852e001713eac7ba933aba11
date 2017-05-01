@@ -1,0 +1,10 @@
+package rahul.assingment1.validators;
+
+public class IValidate {
+	enum repetiveLiteral {
+		I,X,C,M;
+	}
+	public static void validateRepetation(String literal){
+		
+	}
+}

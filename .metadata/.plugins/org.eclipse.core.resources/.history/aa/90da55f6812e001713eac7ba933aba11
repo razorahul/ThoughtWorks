@@ -1,0 +1,5 @@
+package rahul.assingment1.data;
+
+public interface IGuide {
+
+}

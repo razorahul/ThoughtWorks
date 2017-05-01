@@ -1,0 +1,61 @@
+package rahul.assingment1.validators;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public interface IValidate {
+	static List<Character> repeatativeLiterals = new ArrayList<Character>() {
+		{
+			add('M');
+			add('C');
+			add('X');
+			add('I');
+		}
+	};
+	static List<Character> nonLiterals = new ArrayList<Character>() {
+		{
+			add('D');
+			add('L');
+			add('V');
+		}
+	};
+
+	public static boolean validate(String litral) {
+		return false;
+	}
+
+	public static boolean validateRepetation(String literal) {
+		// for non repeating char
+		System.out.println("checking non repeating char");
+		for (Character c : nonLiterals) {
+			System.out.println("checking if char "+c);
+			// (.*(a).*){2,}
+			String regex = "(.*(" + c.toString() + ").*){2,}";
+			if (literal.matches(regex))
+				return false;
+		}
+		// for repeating chars max 3 reps
+		System.out.println("checking repeating char");
+		for (Character c : repeatativeLiterals) {
+			System.out.println("char "+c);
+			// (m){4,}
+			String regex = "(" + c.toString() + "){4,}";
+			if (literal.matches(regex))
+				return false;
+
+			// ^([^m]?(m))*[^m]*$ to see if repeatation with one letter in
+			// middle
+			regex = "([^" + c.toString() + "]?(" + c.toString() + "))*[^" + c.toString() + "]*";
+			if (!literal.matches(regex))
+				return false;
+		}
+		return false;
+	}
+
+	public static boolean vaidateOrdering(String literal) {
+		if(literal!=null){
+			
+		}
+		return false;
+	}
+}

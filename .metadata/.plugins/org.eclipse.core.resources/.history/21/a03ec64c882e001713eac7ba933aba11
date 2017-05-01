@@ -1,0 +1,24 @@
+package rahul.assingment1.validators;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class IValidate {
+	List<Character> repeatativeLiterals = new ArrayList<Character>() {
+		{
+			add('I');add('X');add('C');add('M');
+		}
+	};
+	List<Character> nonLiterals = new ArrayList<Character>() {
+		{
+			add('D');add('L');add('V');
+		}
+	};
+
+	public static boolean validate(String litral){
+		return false;
+	}
+	public static boolean validateRepetation(String literal) {
+		return false;
+	}
+}

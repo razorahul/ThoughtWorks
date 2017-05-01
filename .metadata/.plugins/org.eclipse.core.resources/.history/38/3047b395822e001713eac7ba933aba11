@@ -1,0 +1,49 @@
+package rahul.assingment1.data;
+
+public interface IGuide {
+	class Literal implements Comparable{
+		private int value;
+		private char symbol;
+		public int getValue() {
+			return value;
+		}
+		public void setValue(int value) {
+			this.value = value;
+		}
+		public char getSymbol() {
+			return symbol;
+		}
+		public void setSymbol(char symbol) {
+			this.symbol = Character.toUpperCase(symbol);
+		}
+		@Override
+		public int hashCode() {
+			final int prime = 31;
+			int result = 1;
+			result = prime * result + symbol;
+			return result;
+		}
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			Literal other = (Literal) obj;
+			if (symbol != other.symbol)
+				return false;
+			return true;
+		}
+		public int compareTo(Object o) {
+			if(o instanceof Literal){
+				return Integer.compare(this.getValue(), ((Literal)o).getValue());
+			}
+			return -1;
+		}
+		
+		
+	}
+}
+
