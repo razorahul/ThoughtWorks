@@ -1,7 +1,9 @@
 package rahul.assingment1.validators;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import rahul.assingment1.data.IGuide;
 
@@ -21,71 +23,106 @@ public interface IValidate {
 			add('V');
 		}
 	};
+	
+	static Map<Character, List<Character>> substractors = new HashMap<Character, List<Character>>(){{
+		put('C',new ArrayList<Character>(){{add('M');add('D');}});
+		put('X',new ArrayList<Character>(){{add('C');add('L');}});
+		put('I',new ArrayList<Character>(){{add('X');add('V');}});
+	}};
 
-	public static boolean validate(String litral) {
-		return false;
+	public static boolean validate(String literal) {
+		return (validateRepetation(literal)&& validateOrdering(literal));
 	}
 
 	public static boolean validateRepetation(String literal) {
-		// for non repeating char
-		System.out.println("checking non repeating char");
-		for (Character c : nonLiterals) {
-			System.out.println("checking if char "+c);
-			// (.*(a).*){2,}
-			String regex = "(.*(" + c.toString() + ").*){2,}";
-			if (literal.matches(regex))
-				return false;
-		}
-		// for repeating chars max 3 reps
-		System.out.println("checking repeating char");
-		for (Character c : repeatativeLiterals) {
-			System.out.println("char "+c);
-			// (m){4,}
-			String regex = "(" + c.toString() + "){4,}";
-			if (literal.matches(regex))
-				return false;
+		if (literal != null) {
+			// for non repeating char
+			for (Character c : nonLiterals) {
+				// (.*(a).*){2,}
+				String regex = "^(.*(" + c.toString() + ").*){2,}$";
+				if (literal.matches(regex)) {
+					System.out.println(c + " is repeated more than 1");
+					return false;
+				}
+			}
+			for (Character c : repeatativeLiterals) {
+				// (m){4,}
+				String regex = "^(" + c.toString() + "){4,}$";
+				if (literal.matches(regex)) {
+					System.out.println(c + " is repeated more than 3times in a sequence");
+					return false;
+				}
 
-			// ^([^m]*(m){0,3}([^m](m))*)$ to see if repeatation with one letter in
-			// middle
-			regex = "([^" + c.toString() + "]*(" + c.toString() + "){0,3}([^" + c.toString() + "](" + c.toString() + "))*)";
-			if (!literal.matches(regex))
-				return false;
+				// ^([^M]*M[^M]*){5,}$
+				regex = "^([^" + c.toString() + "]*" + c.toString() + "[^" + c.toString() + "]*){5,}$";
+				if (literal.matches(regex)) {
+					System.out.println(c + " is repeated more than 4 times in a sequence");
+					return false;
+				}
+
+				if (!c.equals('I')) {
+					// with 4 repetition
+					// ^([^M]*M[^M]*){4}$
+					regex = "^([^" + c.toString() + "]*" + c.toString() + "[^" + c.toString() + "]*){4}$";
+					// ^[^M]*(M){3}[^M](M)[^M]*$
+					String regex2 = "^[^" + c.toString() + "]*(" + c.toString() + "){3}[^" + c.toString() + "]("
+							+ c.toString() + ")[^" + c.toString() + "]*$";
+					if (literal.matches(regex))
+						if (!literal.matches(regex2)) {
+							System.out.println(c + " repeated more than 4 not in CCCxC");
+							return false;
+						}
+				}
+			}
+			return true;
 		}
 		return false;
 	}
 
-	public static boolean vaidateOrdering(String literal) {
-		if(literal!=null){
-			boolean good = true;
-			char[] literalArray = literal.toCharArray();
-			int index = 0;
-			for(int i =0;i<literalArray.length;i++){
-				IGuide.Literal l = new IGuide.Literal(0,literalArray[i]);
-				//check if this symbol exist
-				if(!IGuide.LITERALS.contains(l))
-					return false;
-				
-				for(int j =0;j<IGuide.LITERALS.size();j++){
-					if(IGuide.LITERALS.get(j).equals(l)){
-						index = j;
-						l=IGuide.LITERALS.get(j);
+	public static boolean validateOrdering(String literal) {
+		if (literal != null) {
+			final char[] literalArray = literal.toCharArray();
+			List<IGuide.Literal> literals = new ArrayList<>();
+			for (int i = 0; i < literalArray.length; i++) {
+				boolean got = false;
+				for (IGuide.Literal l : IGuide.LITERALS) {
+					if (l.getSymbol() == literalArray[i]) {
+						literals.add(l);
+						got = true;
+						continue;
 					}
 				}
-				
-				//looking next element
-				if(i<literalArray.length-1){
-					if(literalArray[i] != literalArray[i+1]){
-						if(i<literalArray.length-2){
-							if(literalArray[i] == literalArray[i+2]){
-								IGuide.Literal l2 = new IGuide.Literal(0,literalArray[i+1]);
-								if(!IGuide.LITERALS.contains(l2))
-									return false;
-								i = 1+2;
+				if (!got) {
+					System.out.println("Char " + literalArray[i] + " not found!");
+					return false;
+				}
+
+			}
+			
+			//verify order
+			for (int i = 0; i < literals.size(); i++) {
+				if(i<literals.size()-1){
+					if(literals.get(i).compareTo(literals.get(i+1))<0){
+						
+						//DLV cannot be subtracting
+						if(nonLiterals.contains(literals.get(i).getSymbol()) && !substractors.keySet().contains(literals.get(i).getSymbol())){
+							System.out.println("Char " +literals.get(i).getSymbol() +" cannot be before " + literals.get(i+1).getSymbol());
+							return false;
+						}
+						else{
+							//check if next element is valid
+							if(!substractors.get(literals.get(i).getSymbol()).contains(literals.get(i+1).getSymbol())){
+								System.out.println("Char " +literals.get(i).getSymbol() +" cannot be before " + literals.get(i+1).getSymbol());
+								return false;
 							}
 						}
+						
 					}
 				}
 			}
+			
+			return true;
+			
 		}
 		return false;
 	}
