@@ -6,6 +6,7 @@ import java.util.List;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import rahul.assingment1.data.IGuide;
 import rahul.assingment1.validators.IValidate;
 
 /**
@@ -40,7 +41,8 @@ public class AppTest
     	assertTrue( true );
     }
     
-    public void zstestRepition(){
+    public void testRepition(){
+    	System.out.println("testing repitation"); 
     	List<String> literals = new ArrayList<String>(){{
     		add("DLV");
     		add("MMMCCCXXXIII");
@@ -59,6 +61,7 @@ public class AppTest
     }
     
     public void testOrder(){
+    	System.out.println("testing order");
     	List<String> literals = new ArrayList<String>(){{
     		add("MDCLXVI");
     		add("MMMDCCCCLXXXVIII");
@@ -71,6 +74,35 @@ public class AppTest
     	}};
     	literals.forEach(x->{
     		System.out.println(x + " is " +IValidate.validateOrdering(x));
+    	});
+    }
+    
+    public void testWhole(){
+    	System.out.println("testing whole");
+    	List<String> literals = new ArrayList<String>(){{
+    		add("MMMCMDCCCLXXXIXVIII");
+    		add("MCMCMCDC");
+    		
+    	}};
+    	literals.forEach(x->{
+    		System.out.println(x + " is " +IValidate.validate(x));
+    	});
+    	
+    }
+    public void testConvertion(){
+    	System.out.println("testing convertion");
+    	List<String> literals = new ArrayList<String>(){{
+    		add("MDCLXVI");
+    		add("MMMDCCCCLXXXVIII");
+    		add("MMMCMCDCXCXLXXXIXIVI");
+    		add("MCMCMCDC");
+    		add("LC");
+    		add("DM");
+    		add("MMVI");
+    		add("MMMCMDCCCLXXXIXVIII");
+    	}};
+    	literals.forEach(x->{
+    		System.out.println(x + " is " +IGuide.convert(x));
     	});
     }
 }

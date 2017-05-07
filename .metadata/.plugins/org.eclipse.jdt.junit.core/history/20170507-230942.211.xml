@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppTest" project="assingment1" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="rahul.assingment1.AppTest" time="0.174">
+    <testcase name="testApp" classname="rahul.assingment1.AppTest" time="0.0"/>
+    <testcase name="testWhole" classname="rahul.assingment1.AppTest" time="0.159"/>
+    <testcase name="testConvertion" classname="rahul.assingment1.AppTest" time="0.014"/>
+  </testsuite>
+</testrun>

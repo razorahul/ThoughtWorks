@@ -23,15 +23,32 @@ public interface IValidate {
 			add('V');
 		}
 	};
-	
-	static Map<Character, List<Character>> substractors = new HashMap<Character, List<Character>>(){{
-		put('C',new ArrayList<Character>(){{add('M');add('D');}});
-		put('X',new ArrayList<Character>(){{add('C');add('L');}});
-		put('I',new ArrayList<Character>(){{add('X');add('V');}});
-	}};
+
+	static Map<Character, List<Character>> substractors = new HashMap<Character, List<Character>>() {
+		{
+			put('C', new ArrayList<Character>() {
+				{
+					add('M');
+					add('D');
+				}
+			});
+			put('X', new ArrayList<Character>() {
+				{
+					add('C');
+					add('L');
+				}
+			});
+			put('I', new ArrayList<Character>() {
+				{
+					add('X');
+					add('V');
+				}
+			});
+		}
+	};
 
 	public static boolean validate(String literal) {
-		return (validateRepetation(literal)&& validateOrdering(literal));
+		return (validateRepetation(literal) && validateOrdering(literal));
 	}
 
 	public static boolean validateRepetation(String literal) {
@@ -60,19 +77,20 @@ public interface IValidate {
 					return false;
 				}
 
-				if (!c.equals('I')) {
-					// with 4 repetition
-					// ^([^M]*M[^M]*){4}$
-					regex = "^([^" + c.toString() + "]*" + c.toString() + "[^" + c.toString() + "]*){4}$";
-					// ^[^M]*(M){3}[^M](M)[^M]*$
-					String regex2 = "^[^" + c.toString() + "]*(" + c.toString() + "){3}[^" + c.toString() + "]("
-							+ c.toString() + ")[^" + c.toString() + "]*$";
-					if (literal.matches(regex))
-						if (!literal.matches(regex2)) {
-							System.out.println(c + " repeated more than 4 not in CCCxC");
-							return false;
-						}
-				}
+				/*
+				 * if (!c.equals('I')) { // with 4 repetition //
+				 * ^([^M]*M[^M]*){4}$ regex = "^([^" + c.toString() + "]*" +
+				 * c.toString() + "[^" + c.toString() + "]*){4}$"; //
+				 * ^([^M]*M[^M]+M{3}[^M]*)|([^M]*M{3}[^M]M[^M]*)$ String regex2
+				 * = "^([^" + c.toString() + "]*" + c.toString() + "[^" +
+				 * c.toString() + "]+" + c.toString() + "{3}[^" + c.toString() +
+				 * "]*)|([^" + c.toString() + "]*" + c.toString() + "{3}[^" +
+				 * c.toString() + "]" + c.toString() + "[^" + c.toString() +
+				 * "]*)$"; if (literal.matches(regex)) if
+				 * (!literal.matches(regex2)) { System.out.println(c +
+				 * " repeated more than 4 not in CCCxC OR in C...CCC"); return
+				 * false; } }
+				 */
 			}
 			return true;
 		}
@@ -98,31 +116,34 @@ public interface IValidate {
 				}
 
 			}
-			
-			//verify order
+
+			// verify order
 			for (int i = 0; i < literals.size(); i++) {
-				if(i<literals.size()-1){
-					if(literals.get(i).compareTo(literals.get(i+1))<0){
-						
-						//DLV cannot be subtracting
-						if(nonLiterals.contains(literals.get(i).getSymbol()) && !substractors.keySet().contains(literals.get(i).getSymbol())){
-							System.out.println("Char " +literals.get(i).getSymbol() +" cannot be before " + literals.get(i+1).getSymbol());
+				if (i < literals.size() - 1) {
+					if (literals.get(i).compareTo(literals.get(i + 1)) < 0) {
+
+						// DLV cannot be subtracting
+						if (nonLiterals.contains(literals.get(i).getSymbol())
+								&& !substractors.keySet().contains(literals.get(i).getSymbol())) {
+							System.out.println("Char " + literals.get(i).getSymbol() + " cannot be before "
+									+ literals.get(i + 1).getSymbol());
 							return false;
-						}
-						else{
-							//check if next element is valid
-							if(!substractors.get(literals.get(i).getSymbol()).contains(literals.get(i+1).getSymbol())){
-								System.out.println("Char " +literals.get(i).getSymbol() +" cannot be before " + literals.get(i+1).getSymbol());
+						} else {
+							// check if next element is valid
+							if (!substractors.get(literals.get(i).getSymbol())
+									.contains(literals.get(i + 1).getSymbol())) {
+								System.out.println("Char " + literals.get(i).getSymbol() + " cannot be before "
+										+ literals.get(i + 1).getSymbol());
 								return false;
 							}
 						}
-						
+
 					}
 				}
 			}
-			
+
 			return true;
-			
+
 		}
 		return false;
 	}
