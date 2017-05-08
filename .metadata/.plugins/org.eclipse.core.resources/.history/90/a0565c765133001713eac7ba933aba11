@@ -1,0 +1,8 @@
+package rahul.assingment1.model;
+
+import java.util.Map;
+
+public class Galaxy {
+	Map<String,Integer> minerals;
+	Map<String,Character> mapping;
+}

@@ -1,0 +1,12 @@
+package rahul.assingment1;
+
+public class Engine {
+	public static String ERROR_MSG = "I have no idea what you are talking about";
+
+	public String feedData(String line) {
+		if (line != null && !line.trim().equalsIgnoreCase("")) {
+
+		}
+		return ERROR_MSG;
+	}
+}

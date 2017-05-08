@@ -1,0 +1,39 @@
+package rahul.assingment1;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import rahul.assingment1.model.Galaxy;
+
+public class Engine {
+	public static String ERROR_MSG = "I have no idea what you are talking about";
+
+	public String feedData(String line) {
+		if (line != null && !line.trim().equalsIgnoreCase("")) {
+			Galaxy g = new Galaxy();
+			Map<String, Character> mapping = new HashMap<>();
+			g.setMapping(mapping);
+			Map<String, Integer> minerals = new HashMap<>();
+			g.setMinerals(minerals);
+			//catching equivalent Roman 
+			if(line.matches("^.* is (M|D|C|L|X|V|I)"))
+			{
+				String s[] = line.split(" ");
+				mapping.put(s[0], s[2].charAt(0));
+			}
+			else if(line.endsWith("Credits")){
+				String s[] = line.split(" ");
+				String elementName =null;
+				for (int i = 0; i < s.length-3; i++) {
+					if(mapping.containsKey(s[i]))
+						continue;
+					else
+						elementName = s[i];
+				}
+				minerals.put(elementName, new Integer(s[s.length]));
+			}
+			
+		}
+		return ERROR_MSG;
+	}
+}

@@ -1256,3 +1256,355 @@
 2017-05-07 23:30:17,774 [Worker-1048] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
 2017-05-07 23:30:17,774 [Worker-1048] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-05-07 23:30:17,775 [Worker-1048] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:37:21,482 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:37:21,483 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:37:21,485 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:37:21,485 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:39:38,333 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:39:38,333 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:39:38,334 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:39:38,334 [Worker-1070] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:40:13,105 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:40:13,106 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:40:13,107 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:40:13,107 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:44:45,493 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:44:45,493 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:44:45,494 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:44:45,495 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:45:11,079 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:45:11,080 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:45:11,080 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:45:11,081 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:47:01,706 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:47:01,707 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:47:01,708 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:47:01,708 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:47:43,046 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:47:43,046 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:47:43,047 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:47:43,047 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:47:51,786 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:47:51,786 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:47:51,787 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:47:51,787 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:48:19,081 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:48:19,082 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:48:19,083 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:48:19,083 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:48:25,219 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:48:25,219 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:48:25,220 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:48:25,222 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:48:54,904 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:48:54,905 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:48:54,906 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:48:54,906 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:49:05,281 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:49:05,281 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:49:05,282 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:49:05,282 [Worker-1075] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:50:05,201 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:50:05,202 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:50:05,202 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:50:05,203 [Worker-1071] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:50:49,534 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:50:49,534 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:50:49,535 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:50:49,535 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:53:14,299 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:53:14,299 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:53:14,300 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:53:14,300 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:54:24,796 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:54:24,797 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:54:24,797 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:54:24,797 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:54:49,688 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:54:49,689 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:54:49,690 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:54:49,690 [Worker-1073] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-07 23:59:27,702 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:59:27,703 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-07 23:59:27,703 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-07 23:59:27,703 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:00:20,262 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:20,262 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:00:20,263 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:20,263 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:00:25,092 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:25,092 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:00:25,094 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:25,094 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:00:46,408 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:46,408 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:00:46,410 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:46,410 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:00:50,871 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:50,871 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:00:50,875 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:00:50,895 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:02:18,786 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:02:18,788 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:02:18,789 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:02:18,789 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:02:41,770 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:02:41,770 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:02:41,771 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:02:41,771 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:03:23,027 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:03:23,027 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:03:23,029 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:03:23,029 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:03:55,745 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:03:55,746 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:03:55,747 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:03:55,747 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:06:19,309 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:06:19,310 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:06:19,311 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:06:19,311 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:07:51,224 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:07:51,224 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:07:51,225 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:07:51,225 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:09:23,415 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:09:23,416 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:09:23,416 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:09:23,417 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:09:37,796 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:09:37,796 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:09:37,797 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:09:37,798 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:10:22,692 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:10:22,695 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:10:22,696 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:10:22,696 [Worker-1076] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:10:44,314 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:10:44,314 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:10:44,316 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:10:44,316 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:11:10,391 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:11:10,391 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:11:10,392 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:11:10,393 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:12:59,335 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:12:59,336 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:12:59,337 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:12:59,337 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:13:26,163 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:13:26,163 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:13:26,164 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:13:26,164 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:16:16,956 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:16:16,956 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:16:16,957 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:16:16,957 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:16:43,801 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:16:43,801 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:16:43,802 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:16:43,802 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:21:19,829 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:21:19,829 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:21:19,830 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:21:19,830 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:21:24,772 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:21:24,772 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:21:24,773 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:21:24,773 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:22:27,421 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:22:27,422 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:22:27,424 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:22:27,424 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:22:55,353 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:22:55,353 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:22:55,354 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:22:55,354 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:24:44,249 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:24:44,249 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:24:44,250 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:24:44,251 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:24:59,476 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:24:59,476 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:24:59,477 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:24:59,478 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:26:06,550 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:26:06,551 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:26:06,552 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:26:06,552 [Worker-1080] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:26:35,116 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:26:35,116 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:26:35,128 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:26:35,128 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:28:18,778 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:28:18,779 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:28:18,780 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:28:18,780 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:28:44,484 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:28:44,485 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:28:44,486 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:28:44,486 [Worker-1081] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:29:34,229 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:29:34,229 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:29:34,230 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:29:34,230 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:30:24,368 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:30:24,368 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:30:24,369 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:30:24,369 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:30:42,304 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:30:42,304 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:30:42,304 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:30:42,305 [Worker-1082] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:30:53,010 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:30:53,010 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:30:53,011 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:30:53,011 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:31:25,720 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:31:25,720 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:31:25,721 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:31:25,721 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:32:15,698 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:32:15,698 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:32:15,699 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:32:15,699 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:32:43,624 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:32:43,624 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:32:43,625 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:32:43,625 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:33:07,830 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:33:07,830 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:33:07,831 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:33:07,831 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:35:12,646 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:35:12,646 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:35:12,648 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:35:12,648 [Worker-1079] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 00:36:14,528 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:36:14,528 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 00:36:14,529 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 00:36:14,529 [Worker-1083] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:17:58,752 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:17:58,752 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:17:58,752 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:17:58,753 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:21:26,133 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:26,134 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:21:26,134 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:26,134 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:21:40,544 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:40,544 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:21:40,545 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:40,545 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:21:52,585 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:52,585 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:21:52,586 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:52,586 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:21:58,127 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:58,128 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:21:58,128 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:21:58,129 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:23:05,255 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:23:05,255 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:23:05,256 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:23:05,256 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:24:07,412 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:07,412 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:24:07,413 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:07,413 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:24:30,955 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:30,955 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:24:30,956 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:30,956 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:24:40,379 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:40,379 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:24:40,380 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:40,380 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:24:57,240 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:57,240 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:24:57,241 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:24:57,241 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:34:15,788 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:34:15,788 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:34:15,789 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:34:15,789 [Worker-1093] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:34:23,808 [Worker-1095] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:34:23,810 [Worker-1095] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:34:23,810 [Worker-1095] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:34:23,811 [Worker-1095] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:34:47,883 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:34:47,892 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:34:47,893 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:34:47,893 [Worker-1094] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:35:34,814 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:35:34,815 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:35:34,815 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:35:34,815 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:36:50,377 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:36:50,377 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:36:50,378 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:36:50,378 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:40:35,882 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:40:35,882 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:40:35,883 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:40:35,883 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:41:37,928 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:41:37,928 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:41:37,929 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:41:37,929 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:42:12,162 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:42:12,162 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:42:12,163 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:42:12,163 [Worker-1091] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:42:20,032 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:42:20,032 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:42:20,033 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:42:20,033 [Worker-1074] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:42:53,767 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:42:53,767 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:42:53,768 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:42:53,768 [Worker-1092] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:43:36,378 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:43:36,378 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:43:36,379 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:43:36,379 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:43:56,787 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:43:56,787 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:43:56,788 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:43:56,788 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:43:59,107 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:43:59,107 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:43:59,108 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:43:59,108 [Worker-1077] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:45:48,339 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:45:48,339 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:45:48,340 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:45:48,340 [Worker-1090] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:46:42,392 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:46:42,392 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:46:42,393 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:46:42,393 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:49:16,591 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:49:16,594 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:49:16,595 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:49:16,595 [Worker-1101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:49:34,959 [Worker-1097] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:49:34,960 [Worker-1097] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:49:34,960 [Worker-1097] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:49:34,960 [Worker-1097] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:53:53,004 [Worker-1098] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:53:53,005 [Worker-1098] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:53:53,007 [Worker-1098] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:53:53,007 [Worker-1098] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:58:12,777 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:58:12,777 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:58:12,778 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:58:12,778 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:58:39,407 [Worker-1099] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:58:39,408 [Worker-1099] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:58:39,408 [Worker-1099] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:58:39,409 [Worker-1099] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources
+2017-05-08 08:59:02,805 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:59:02,805 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/main/resources
+2017-05-08 08:59:02,805 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-08 08:59:02,806 [Worker-1096] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/razor/code/ThoughtWorks/assingment1/src/test/resources

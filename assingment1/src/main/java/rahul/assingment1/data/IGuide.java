@@ -86,7 +86,7 @@ public interface IGuide {
 
 	public static int convert(String literal) {
 		if (null != literal && !literal.trim().equalsIgnoreCase("")) {
-			if (IValidate.validate(literal)) {
+			//if (IValidate.validate(literal)) {
 				char[] temp = literal.toCharArray();
 				List<IGuide.Literal> literals = new ArrayList<>();
 				for (char t : temp) {
@@ -110,7 +110,7 @@ public interface IGuide {
 						sum += literals.get(i).getValue();
 				}
 				return sum;
-			}
+			//}
 		}
 		return 0;
 	}
@@ -131,7 +131,4 @@ public interface IGuide {
 		return null;
 	}
 
-	public static void main(String[] args) {
-		System.out.println(create(1934));
-	}
 }

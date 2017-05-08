@@ -1,0 +1,71 @@
+package rahul.assingment1;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import rahul.assingment1.data.IGuide;
+import rahul.assingment1.model.Galaxy;
+import rahul.assingment1.validators.IValidate;
+
+public class Engine {
+	public static String ERROR_MSG = "I have no idea what you are talking about";
+
+	public String feedData(String line) {
+		if (line != null && !line.trim().equalsIgnoreCase("")) {
+			Galaxy g = new Galaxy();
+			Map<String, Character> mapping = new HashMap<>();
+			g.setMapping(mapping);
+			Map<String, Integer> minerals = new HashMap<>();
+			g.setMinerals(minerals);
+			// catching equivalent Roman
+			if (line.trim().matches("^.* is (M|D|C|L|X|V|I)")) {
+				String s[] = line.split(" ");
+				mapping.put(s[0], s[2].charAt(0));
+			} else if (line.trim().endsWith("Credits")) {
+				String s[] = line.split(" ");
+				String elementName = null;
+				StringBuilder sb = new StringBuilder("");
+				for (int i = 0; i < s.length - 3; i++) {
+					if (mapping.containsKey(s[i])) {
+						sb.append(mapping.get(s[i]));
+						continue;
+					} else
+						elementName = s[i];
+				}
+				Integer f = new Integer(s[s.length - 2]) / IGuide.convert(sb.toString());
+				minerals.put(elementName, f);
+			} else if (line.trim().endsWith("?")) {
+				if (line.trim().toLowerCase().startsWith("how much is")) {
+					String[] s = line.trim().split(" ");
+					StringBuilder literal = new StringBuilder("");
+					String actual = line.trim().substring(11, line.trim().length() - 2);
+					for (int i = 3; i < s.length - 1; i++) {
+						if (mapping.get(s[i]) != null)
+							literal.append(mapping.get(s[i]));
+						else
+							break;
+					}
+					if (IValidate.validate(literal.toString()))
+						System.out.println(actual + " is " + IGuide.convert(literal.toString()));
+
+				}
+				else if(line.trim().toLowerCase().startsWith("how many Credits is ")){
+					String s[] = line.trim().split(" ");
+					StringBuilder literal = new StringBuilder("");
+					String actual = line.trim().substring(19, line.trim().length() - 2);
+					int sum = 0;
+					for (int i = 4; i < s.length - 1; i++) {
+						if (mapping.get(s[i]) != null)
+							literal.append(mapping.get(s[i]));
+						else
+							sum += minerals.get(s[i]);
+					}
+					if (IValidate.validate(literal.toString()))
+						System.out.println(actual + " is " + (sum + IGuide.convert(literal.toString())) + " Credits");
+				}
+			}
+
+		}
+		return ERROR_MSG;
+	}
+}

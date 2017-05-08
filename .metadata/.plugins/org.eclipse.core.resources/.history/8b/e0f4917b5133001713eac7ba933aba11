@@ -1,0 +1,22 @@
+package rahul.assingment1.model;
+
+import java.util.Map;
+
+public class Galaxy {
+	Map<String,Integer> minerals;
+	Map<String,Character> mapping;
+	
+	public Map<String, Integer> getMinerals() {
+		return minerals;
+	}
+	public void setMinerals(Map<String, Integer> minerals) {
+		this.minerals = minerals;
+	}
+	public Map<String, Character> getMapping() {
+		return mapping;
+	}
+	public void setMapping(Map<String, Character> mapping) {
+		this.mapping = mapping;
+	}
+	
+}

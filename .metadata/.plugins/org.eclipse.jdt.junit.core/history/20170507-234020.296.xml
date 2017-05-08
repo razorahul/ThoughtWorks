@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppTest" project="assingment1" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="rahul.assingment1.AppTest" time="0.102">
+    <testcase name="testApp" classname="rahul.assingment1.AppTest" time="0.0"/>
+    <testcase name="testRepition" classname="rahul.assingment1.AppTest" time="0.049"/>
+    <testcase name="testOrder" classname="rahul.assingment1.AppTest" time="0.02"/>
+    <testcase name="testWhole" classname="rahul.assingment1.AppTest" time="0.008"/>
+    <testcase name="testConvertion" classname="rahul.assingment1.AppTest" time="0.02"/>
+    <testcase name="testCreation" classname="rahul.assingment1.AppTest" time="0.004"/>
+  </testsuite>
+</testrun>

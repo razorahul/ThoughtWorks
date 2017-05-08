@@ -1,0 +1,21 @@
+package rahul.assingment1;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import rahul.assingment1.model.Galaxy;
+
+public class Engine {
+	public static String ERROR_MSG = "I have no idea what you are talking about";
+
+	public String feedData(String line) {
+		if (line != null && !line.trim().equalsIgnoreCase("")) {
+			Galaxy g = new Galaxy();
+			g.setMapping(mapping);
+			g.setMinerals(minerals);
+			//catching equivalent Roman 
+			
+		}
+		return ERROR_MSG;
+	}
+}
